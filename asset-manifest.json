@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/divya-sharma/static/css/main.2656ebe9.chunk.css",
+    "main.js": "/divya-sharma/static/js/main.51f69bcd.chunk.js",
+    "main.js.map": "/divya-sharma/static/js/main.51f69bcd.chunk.js.map",
+    "runtime-main.js": "/divya-sharma/static/js/runtime-main.caba0634.js",
+    "runtime-main.js.map": "/divya-sharma/static/js/runtime-main.caba0634.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/divya-sharma/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.547ce69d.chunk.js": "/divya-sharma/static/js/2.547ce69d.chunk.js",
+    "static/js/2.547ce69d.chunk.js.map": "/divya-sharma/static/js/2.547ce69d.chunk.js.map",
+    "index.html": "/divya-sharma/index.html",
+    "precache-manifest.b400a01d58fe133f0a9455f56ee5418d.js": "/divya-sharma/precache-manifest.b400a01d58fe133f0a9455f56ee5418d.js",
+    "service-worker.js": "/divya-sharma/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/divya-sharma/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.2656ebe9.chunk.css.map": "/divya-sharma/static/css/main.2656ebe9.chunk.css.map",
+    "static/js/2.547ce69d.chunk.js.LICENSE.txt": "/divya-sharma/static/js/2.547ce69d.chunk.js.LICENSE.txt",
+    "static/media/eventsImg.png": "/divya-sharma/static/media/eventsImg.31c49332.png",
+    "static/media/farFromHomeImg.png": "/divya-sharma/static/media/farFromHomeImg.10d6ff3a.png",
+    "static/media/luraImg.png": "/divya-sharma/static/media/luraImg.eb368bd4.png",
+    "static/media/pinkLakePhoto.JPG": "/divya-sharma/static/media/pinkLakePhoto.b183a55f.JPG",
+    "static/media/selflogo2.png": "/divya-sharma/static/media/selflogo2.b305eab8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caba0634.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.547ce69d.chunk.js",
+    "static/css/main.2656ebe9.chunk.css",
+    "static/js/main.51f69bcd.chunk.js"
+  ]
+}
